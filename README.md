@@ -13,7 +13,6 @@ Nome do Software: Sistema de Topografia Computacional TopoCalc
 Release: Alpha v0.2.0
 Data: 21 de junho de 2026
 Autor: Pablo Medina Camacho
-Email: pablo@pablomc.com
 Curso: Engenharia Civil Empresarial
 Instituição: Universidade Federal do Rio Grande (FURG)
 Linguagem: Python (PySide6 + bibliotecas científicas)
